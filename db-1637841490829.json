@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Learning React Basics",
+      "date": "Nov 25th 9:30am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Learning React Router",
+      "date": "Nov 25th 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Learning React Redux",
+      "date": "Nov 25th 5:30pm",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Learning React Hooks",
+      "date": "Nov 25th 9:30am",
+      "reminder": true
+    }
+  ]
+}
